@@ -73,6 +73,11 @@ main p {
   margin-top: 20px;
 }
 
+.card img {
+  height: 64px;
+  width: 64px;
+}
+
 .options-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
